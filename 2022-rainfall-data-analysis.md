@@ -1,15 +1,6 @@
----
-title: "2022 Rainfall Data Analysis"
-author: "Sandy Macdonald"
-date: "30/12/2022"
-output:
-  html_document:
-    keep_md: yes  
-  github_document:
-    default
----
-
-
+# 2022 Rainfall Data Analysis
+### Sandy Macdonald
+### 30/12/2022
 
 These data were collected from my home weather station in York, comprising a set of weather instruments (wind vane and anemometer, rain gauge, temperature, pressure, humidity, and light sensors), Pimoroni Weather HAT, and Raspberry Pi Zero W computer.
 
